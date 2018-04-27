@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+#nav_bar
+{
+	background-color:#ffffff;
+	border-color:#0B0948;
+}
+#links a
+{
+	color:#800040;
+	font-size:18px;
+	
+} 
